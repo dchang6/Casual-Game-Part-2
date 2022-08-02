@@ -1,6 +1,4 @@
-# Casual-Game-Part-2
 The sequel to the first casual game I created.
-
 
 Download Instructions
 1. Click on the green Code button then select Download Zip. 
