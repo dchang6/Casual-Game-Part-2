@@ -7,4 +7,4 @@ Download Instructions
 4. Click on the application that says Final Project.exe and select to extract all.
 5. Once the files have been extracted, click the two folders until your're inside of the pc build folder again. Final Project.exe should now be playable.
 
-Note: You don't need to have a Github account to do any of this.
+Note: You don't need to have a Github account to do any of this. You have to press space to shoot, not p. 
